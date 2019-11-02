@@ -4,9 +4,11 @@ p{
 }
 .h1{
   font-size: 70px;
+  text-shadow: 3px 9px 10px #FF1360;
 }
 p{
-  font-size: 30px;
+  font-size: 36px;
+    text-shadow: 1px 4px 7px #FF1360;
 }
 .header{
   height: 500px;
